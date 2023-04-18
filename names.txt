@@ -1,3 +1,5 @@
 My name is Satyam
 I'm learning git and its commands
 I'm enjoying
+
+Changing file to see the reset option
